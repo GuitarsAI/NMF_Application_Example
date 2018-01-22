@@ -1,2 +1,15 @@
 # NMF_Application_Example
 NMF Decomposition of two iconic rock songs introductions.
+
+This is a simple Jupyter Notebook with an application example of NMF Decomposition of 2 iconic introductions of rock songs:
+- Bruce Springsteen - Streets of Philadelpia
+- Guns n' Roses - Sweet Child O' Mine
+
+*The excerpts of the songs used in this jupyter notebooks are for educational purposes only. 
+This jupyter notebook is based on [musicinformationretrieval.com](https://musicinformationretrieval.com/index.html).
+
+Renato Profeta
+PhD Candidate at TU Ilmenau
+Artificial Intelligence Applied to Guitars
+https://www.facebook.com/GuitarsAI/
+[instagram] @guitars.ai
