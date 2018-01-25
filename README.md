@@ -10,8 +10,8 @@ This jupyter notebook is based on [musicinformationretrieval.com](https://musici
 
 http://nbviewer.jupyter.org/github/GuitarsAI/NMF_Application_Example/blob/master/NMF_Simple_example.ipynb
 
-Renato Profeta
-PhD Candidate at TU Ilmenau
-Artificial Intelligence Applied to Guitars
-https://www.facebook.com/GuitarsAI/
+Renato Profeta<br>
+PhD Candidate at TU Ilmenau<br>
+Artificial Intelligence Applied to Guitars<br>
+https://www.facebook.com/GuitarsAI/<br>
 [instagram] @guitars.ai
